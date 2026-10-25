@@ -1,0 +1,112 @@
+body{
+     background-color: #edebc2;
+     font-family: Georgia, serif;
+     align-items: center;
+    text-align: center;
+
+}
+
+h1{
+    color: #7452a6;
+    background-color: #f8d9e8;
+    padding: 20px;
+    border-radius: 20px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 35px;
+    font-weight: bold;
+    text-shadow: 2px 3px 3px #d5bde8;
+    border: 3px solid #e8d8f7;
+    box-shadow: 0 6px 12px #e8cce0;
+    margin: 25px;
+
+}
+
+p{
+    color:rgb(0, 0, 0);
+    text-shadow: 0 0 10px rgb(255, 255, 255);
+    font-family: new times roman, serif;
+    font-size: 20px;
+}
+
+h2{
+    color:rgb(244, 202, 216);
+    text-shadow: 0 0 10px rgb(255, 255, 255);
+    font-family: new times roman, serif; 
+    text-align: center;
+}
+
+.btn{
+    background-color: #9cbdde;
+    border-color: #78adcd;
+    border-radius: 20px;
+    padding: 10px 20px;
+    margin-top: 20px;
+    cursor: pointer;
+     font-size: 15px;
+    
+}
+
+.pre1{
+    background-color: #fff0f6;
+    border: 2px solid #f3c9df;
+    border-radius: 20px;
+    padding: 25px;
+    margin: 40px;
+    box-shadow: 0 6px 15px #e5c9df;
+}
+
+.pre2{
+    background-color: #fff0f6;
+    border: 2px solid #f3c9df;
+    border-radius: 20px;
+    padding: 25px;
+    margin: 40px;
+    box-shadow: 0 6px 15px #e5c9df;
+}
+
+.pre3{
+    background-color: #fff0f6;
+    border: 2px solid #f3c9df;
+    border-radius: 20px;
+    padding: 25px;
+    margin: 40px;
+    box-shadow: 0 6px 15px #e5c9df;
+}
+
+
+.pre4{
+   background-color: #fff0f6;
+    border: 2px solid #f3c9df;
+    border-radius: 20px;
+    padding: 25px;
+    margin: 40px;
+    box-shadow: 0 6px 15px #e5c9df;
+}
+
+.pre5{
+    background-color: #fff0f6;
+    border: 2px solid #f3c9df;
+    border-radius: 20px;
+    padding: 25px;
+    margin: 40px;
+    box-shadow: 0 6px 15px #e5c9df;
+}
+
+.pre6{
+    background-color: #fff0f6;
+    border: 2px solid #f3c9df;
+    border-radius: 20px;
+    padding: 25px;
+    margin: 40px;
+    box-shadow: 0 6px 15px #e5c9df;
+}
+
+.pre7{
+    background-color: #fff0f6;
+    border: 2px solid #f3c9df;
+    border-radius: 20px;
+    padding: 25px;
+    margin: 40px;
+    box-shadow: 0 6px 15px #e5c9df;
+}

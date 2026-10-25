@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Iniciar sesión</title>
+    <link rel="stylesheet" href="perfil.css">
+</head>
+<body>
+    <div class="card">
+        <h2>Perfil del Estudiante:</h2>
+        <hr><br>
+        <p><strong>Nombre y Apellido:</strong> <span id="nombre"></span></p>
+        <p><strong>Materia:</strong> Informática / Programación</p>
+        <p><strong>Año del Proyecto:</strong> 2026</p>
+
+        <script>
+            let nombre = localStorage.getItem("nombre");
+
+    document.getElementById("nombre").textContent = nombre;
+</script>
+
+        <a class="back" href="cuestionario.html">← Volver al Inicio</a>
+    </div>
+</body>
+</html>
