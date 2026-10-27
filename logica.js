@@ -40,7 +40,7 @@ function validarOrg(pre5) {
 }
 
 function validarOrg(pre6) {
-    if (pre6 === 'A') {
+    if (pre6 === 'B') {
         alert("¡Felicidades! 🎉 Respuesta correcta.");
     } else {
         alert("❌ Respuesta incorrecta.¡Vuelve a intentarlo!");
@@ -48,7 +48,7 @@ function validarOrg(pre6) {
 }
 
 function validarOrg(pre7) {
-    if (pre7 === 'A') {
+    if (pre7 === 'B') {
         alert("¡Felicidades! 🎉 Respuesta correcta.");
     } else {
         alert("❌ Respuesta incorrecta.¡Vuelve a intentarlo!");
